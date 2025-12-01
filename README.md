@@ -44,7 +44,7 @@ The application bridges the gap between management and staff, offering a secure,
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/StaffSync.git
+    git clone [https://github.com/](https://github.com/)CodeByTaufique/StaffSync.git
     ```
 
 2.  **Import project** into your preferred Java IDE.
@@ -83,4 +83,4 @@ The application bridges the gap between management and staff, offering a secure,
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**TauFique**
